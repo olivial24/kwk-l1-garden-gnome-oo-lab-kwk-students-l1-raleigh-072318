@@ -9,9 +9,9 @@ class gardengnome
     @age = age 
   end 
   
-  def initialize (allergy)
+  def initialize (allergy = gluten)
     @allergy 
   end 
   
+def initialize
   
-    

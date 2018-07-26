@@ -5,7 +5,7 @@ class Gardengnome
     @name
   end 
   
-  def name = (name)
+  def name=(name)
     @name = name 
   end 
   
@@ -13,11 +13,11 @@ class Gardengnome
     @age
   end 
   
-  def age = (age)
+  def age=(age)
     @age = age 
   end 
   
-  def initialize (gluten_allergy = "gluten")
+  def gluten_allergy=(gluten_allergy)
     @allergy = gluten_allergy 
   end 
   

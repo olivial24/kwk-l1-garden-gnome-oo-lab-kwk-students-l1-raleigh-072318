@@ -9,9 +9,12 @@ class gardengnome
     @age = age 
   end 
   
-  def initialize (allergy = gluten)
-    @allergy 
+  def initialize (allergy = "gluten")
+    @allergy = allergy
   end 
   
-def initialize (personality = evil)
-  
+def initialize.new (personality = "evil", hat_color = "red")
+  @personality = personality 
+end 
+
+gnaw 

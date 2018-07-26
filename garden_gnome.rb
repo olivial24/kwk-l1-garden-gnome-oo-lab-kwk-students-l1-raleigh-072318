@@ -9,5 +9,6 @@ class gardengnome
     @age = age 
   end 
   
-  def initialize (gnome, allergy)
+  def initialize (allergy)
+    
     

@@ -1,5 +1,5 @@
 # Code your instances here
-class gardengnome 
+class Gardengnome 
   
   def name = (name)
     @name = name 
@@ -9,12 +9,13 @@ class gardengnome
     @age = age 
   end 
   
-  def initialize (allergy = "gluten")
-    @allergy = allergy
+  def initialize (gluten_allergy = "gluten")
+    @allergy = gluten_allergy 
   end 
   
 def initialize.new (personality = "evil", hat_color = "red")
   @personality = personality 
+  @hat_color = hat_color
 end 
 
 gnaw 

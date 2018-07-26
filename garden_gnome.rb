@@ -10,5 +10,5 @@ class gardengnome
   end 
   
   def initialize (allergy)
-    
+    @allergy 
     

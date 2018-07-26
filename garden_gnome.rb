@@ -9,4 +9,4 @@ class gardengnome
     @age = age 
   end 
   
-  
+  def initialize 

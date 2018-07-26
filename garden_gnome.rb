@@ -58,4 +58,5 @@ gnome1.age = 16
 
 puts gnome1.name
 puts gnome1.shout
-puts gnome1.gnaw 
+puts gnome1.gnaw
+puts gnome1.age

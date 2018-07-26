@@ -13,5 +13,5 @@ class gardengnome
     @allergy 
   end 
   
-def initialize
+def initialize (personality = evil)
   

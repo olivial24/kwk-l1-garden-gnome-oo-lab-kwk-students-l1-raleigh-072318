@@ -31,7 +31,7 @@ end
   end 
   
   def gluten_allergy=(gluten_allergy)
-    @allergy = gluten_allergy 
+    @gluten_allergy = gluten_allergy 
   end 
   
   def gluten_allergy
